@@ -157,7 +157,7 @@ class NavBar extends Component {
       <nav className="navbar navbar-expand navbar-dark bg-dark">
         <a
           className="navbar-brand h1 mb-0"
-          href="https://rohithaug.github.io/pathfinding-visualizer/"
+          href="https://tamillaaa.github.io/Algorithm-Visualizer/"
         >
           {brand}
         </a>
